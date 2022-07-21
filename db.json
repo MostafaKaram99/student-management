@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Mostafa Madkour",
+      "email": "princemostafa14@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "fvf",
+      "email": "princemostafa14@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "esfsedf",
+      "email": "princemostafa14@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "hello",
+      "email": "a@a.com",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
